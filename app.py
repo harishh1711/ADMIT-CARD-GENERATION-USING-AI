@@ -23,9 +23,9 @@ import base64
 app = Flask(__name__)
 
 # Set your Twilio credentials
-account_sid = "AC7f99e013a37b967ba2398678e176b8fb"
-auth_token = "2508d090db2dd11a560962a3862267e3"
-verify_sid = "VA5328f6289c78e6c69e2a837bff495c1a"
+account_sid = "YOUR_SID"
+auth_token = "YOUR_AUTH_TOKEN"
+verify_sid = "YOUR_VERIFY_SID"
 
 client = Client(account_sid, auth_token)
 
