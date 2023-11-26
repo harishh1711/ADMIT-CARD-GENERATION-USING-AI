@@ -1,4 +1,4 @@
-Admit Card System
+#Admit Card System
 This Flask application serves as an Admit Card generation system, allowing users to enter their details, verify their identity through photo and signature, and generate a downloadable Admit Card in PDF format.
 
 Features
